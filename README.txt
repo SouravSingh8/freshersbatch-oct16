@@ -1,4 +1,4 @@
-Assignments folder consists of the following assignments
+This folder consists of the following assignments :
 HTML
 Cascade Style Sheet
 JAVASCRIPT
