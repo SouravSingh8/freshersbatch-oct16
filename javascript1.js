@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 <h2>The var Keyword Creates Variables</h2>
 
 <p id="demo"></p>
