@@ -1,5 +1,5 @@
 Assignments folder consists of the following assignments
 HTML
-CSS
+Cascade Style Sheet
 JAVASCRIPT
 
